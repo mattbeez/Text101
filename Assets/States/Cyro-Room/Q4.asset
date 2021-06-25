@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30fc377a07ba6246a82b32049fa1d82, type: 3}
+  m_Name: Q4
+  m_EditorClassIdentifier: 
+  storyText: 'You try to override the alarm so you can think straight, but the computer
+    screen flashes "FAILED" in big red letters.
+
+    The screen indicates the system
+    is critical and that there is a major oxygen leak due to hull damage.
+
+
+    1. 
+    Diagnose the damage.
+
+    2.  Run to the escape pods.'
+  nextStates:
+  - {fileID: 11400000, guid: dc4f761f7a0eafd44838701300566eb6, type: 2}
+  - {fileID: 11400000, guid: 37e4559c32d569b439da6fe8c9074a12, type: 2}

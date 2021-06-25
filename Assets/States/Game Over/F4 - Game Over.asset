@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30fc377a07ba6246a82b32049fa1d82, type: 3}
+  m_Name: F4 - Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'You perform a full system check.  "OXYGEN SYSTEM CRITICAL" flashes
+    across the screen.  You can see that the ship has suffered hull damage.  You
+    start to feel light headed.
+
+
+    You drop down from the chair and start to pull
+    yourself down the hall towards the escape pods.  As you get closer, your vision
+    gets darker and darker.  You can hear the groan of metal as the ship starts to
+    cave in on itself.  You lose consciousness before the ship tears itself apart.
+
+
+    That
+    wasn''t the right way to go.  Do you want to try again?
+
+
+    1.  Yes, I''ll
+    learn from my mistakes.
+
+    2.  No, I''m done with space.
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: a2d458f2d25faef4c9403e512aac719c, type: 2}
+  - {fileID: 11400000, guid: 6039bb8cd188ac64699830a7c78ca1c9, type: 2}

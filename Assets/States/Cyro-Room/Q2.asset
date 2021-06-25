@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30fc377a07ba6246a82b32049fa1d82, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  storyText: 'You look around the pod, gathering your thoughts.  You see the muscle
+    stabilizer syringe attached to the inside of the chamber.  You grab it and inject
+    it into your hip.
+
+
+    You open the cyro pod and get out and walk to the computer.
+
+
+    1. 
+    Perform a system check.
+
+    2.  Disable the alarm.'
+  nextStates:
+  - {fileID: 11400000, guid: 91516904932d9c84ca6ab21d224cd95e, type: 2}
+  - {fileID: 11400000, guid: de198d1df0d8d124684012b1a227e0d9, type: 2}

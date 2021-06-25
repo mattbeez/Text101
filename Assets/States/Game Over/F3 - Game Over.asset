@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30fc377a07ba6246a82b32049fa1d82, type: 3}
+  m_Name: F3 - Game Over
+  m_EditorClassIdentifier: 
+  storyText: "You tell the computer to repair the affected area.  The computer initiates
+    the nano-bot repair procedure.  It gets to 20% before it fails.  \"Damage critical. 
+    Nano-bot repair unsuccessful,\" the computer voice states.  \n\nYou panic and
+    run down the hall to the escape pods.  As you round the corner to the escape
+    pod, you feel your breathing getting heavier and your vision getting spotty. 
+    You collapse to the ground, unable to breathe.  Your vision fades to black as
+    you hear the ship caving in on itself.\n\nThat wasn't the right way to go.  Do
+    you want to try again?\n\n1.  Yes, I'll learn from my mistakes.\n2.  No, I'm
+    done with space.\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: a2d458f2d25faef4c9403e512aac719c, type: 2}
+  - {fileID: 11400000, guid: 6039bb8cd188ac64699830a7c78ca1c9, type: 2}

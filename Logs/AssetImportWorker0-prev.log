@@ -1,0 +1,1311 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 16330 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Documents/Repos/Unity2D/Text101/Text101
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53308
+Successfully changed project path to: F:/Documents/Repos/Unity2D/Text101/Text101
+F:/Documents/Repos/Unity2D/Text101/Text101
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Documents/Repos/Unity2D/Text101/Text101/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e87)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004292 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.444 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 49.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.315 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2081 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2515.
+Total: 3.560100 ms (FindLiveObjects: 0.350300 ms CreateObjectMapping: 0.053200 ms MarkObjects: 2.878100 ms  DeleteObjects: 0.275200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts
+  artifactKey: Guid(df50788f6c12e864e9e627e0d6a8525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(df50788f6c12e864e9e627e0d6a8525e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98dade8e77e618dbe71ea6b06e98f56') in 0.013986 seconds
+  Import took 0.018066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.810054 seconds.
+  path: Assets/State.cs
+  artifactKey: Guid(d30fc377a07ba6246a82b32049fa1d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/State.cs using Guid(d30fc377a07ba6246a82b32049fa1d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6452d174523d5df2a2d4149d634fcf6') in 0.055880 seconds
+  Import took 0.058879 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004265 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.176 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2519.
+Total: 2.621700 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.045700 ms MarkObjects: 2.186100 ms  DeleteObjects: 0.198200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.715163 seconds.
+  path: Assets/States
+  artifactKey: Guid(3539a8630b235c64494d0f4a554d284d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States using Guid(3539a8630b235c64494d0f4a554d284d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed088ec0bd15ec60b5acdd06e97b1eb') in 0.013805 seconds
+  Import took 0.017544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.822575 seconds.
+  path: Assets/States/Intro
+  artifactKey: Guid(9f8892d0e48d51b47a0f9c1f40d62bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Intro using Guid(9f8892d0e48d51b47a0f9c1f40d62bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3457f5684bf449386629c0dd8e0aec3') in 0.006935 seconds
+  Import took 0.010596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.306783 seconds.
+  path: Assets/States/Intro/New Folder
+  artifactKey: Guid(36929da8104c08c4b9bed0bc9c8ea1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Intro/New Folder using Guid(36929da8104c08c4b9bed0bc9c8ea1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad094f702b8bbef13704f3178abdfa0d') in 0.008624 seconds
+  Import took 0.016217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.509324 seconds.
+  path: Assets/States/Cyro-Room
+  artifactKey: Guid(72cabc7bcaa59194e89f1fda5684b1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room using Guid(72cabc7bcaa59194e89f1fda5684b1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c44e02f3cb937b3e61493f36c1faa60') in 0.009049 seconds
+  Import took 0.014088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/States/Cyro-Room
+  artifactKey: Guid(72cabc7bcaa59194e89f1fda5684b1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room using Guid(72cabc7bcaa59194e89f1fda5684b1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c44e02f3cb937b3e61493f36c1faa60') in 0.002546 seconds
+  Import took 0.006783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.010594 seconds.
+  path: Assets/States/Game Over
+  artifactKey: Guid(e78d4c3b5fdfee5418727cb8a1475b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over using Guid(e78d4c3b5fdfee5418727cb8a1475b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8d548e7ac214de118133a881663ff5') in 0.008739 seconds
+  Import took 0.012970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.547274 seconds.
+  path: Assets/States/Intro/Introduction.asset
+  artifactKey: Guid(6039bb8cd188ac64699830a7c78ca1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Intro/Introduction.asset using Guid(6039bb8cd188ac64699830a7c78ca1c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597b0956ac273f9aac3265a9d1bd0c1c') in 0.024538 seconds
+  Import took 0.030731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 253.400434 seconds.
+  path: Assets/States/Cyro-Room/A1 - Wake Up.asset
+  artifactKey: Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A1 - Wake Up.asset using Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9b5e85251c9da063eb91a3798558bb') in 0.007276 seconds
+  Import took 0.010521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.232336 seconds.
+  path: Assets/States/Game Over/F1 - Game Over.asset
+  artifactKey: Guid(37e4559c32d569b439da6fe8c9074a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F1 - Game Over.asset using Guid(37e4559c32d569b439da6fe8c9074a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43799cd3760b971ba1d0ddd80154d95a') in 0.009424 seconds
+  Import took 0.014474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/States/Game Over/F1 - Game Over.asset
+  artifactKey: Guid(37e4559c32d569b439da6fe8c9074a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F1 - Game Over.asset using Guid(37e4559c32d569b439da6fe8c9074a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43799cd3760b971ba1d0ddd80154d95a') in 0.002469 seconds
+  Import took 0.006573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 230.913474 seconds.
+  path: Assets/States/Cyro-Room/A2.asset
+  artifactKey: Guid(e190a297c0b302540ae330f65f58c05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2.asset using Guid(e190a297c0b302540ae330f65f58c05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5d7dd16cd61c868c658a70c5c425e5') in 0.007097 seconds
+  Import took 0.010661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.579512 seconds.
+  path: Assets/States/Cyro-Room/A2 1.asset
+  artifactKey: Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 1.asset using Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '504e91f56da0de3eb8b6400c1ac1d744') in 0.008297 seconds
+  Import took 0.013312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.122762 seconds.
+  path: Assets/States/Cyro-Room/A2 1.asset
+  artifactKey: Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 1.asset using Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c898dcbe1b2221378d6845d969d150') in 0.002602 seconds
+  Import took 0.006052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/States/Cyro-Room/A2 2.asset
+  artifactKey: Guid(d6029e710155ca146b5d6d14cd48b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 2.asset using Guid(d6029e710155ca146b5d6d14cd48b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b159a845d2932a0efc960f4c7d7b1a45') in 0.007110 seconds
+  Import took 0.010119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.720465 seconds.
+  path: Assets/States/Cyro-Room/A2 2.asset
+  artifactKey: Guid(d6029e710155ca146b5d6d14cd48b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 2.asset using Guid(d6029e710155ca146b5d6d14cd48b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37c47dcbf274d14d8505c5ec271f7e2') in 0.002430 seconds
+  Import took 0.007175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/States/Cyro-Room/A2 3.asset
+  artifactKey: Guid(9d4ce93f29084ae44862f51c659e9591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 3.asset using Guid(9d4ce93f29084ae44862f51c659e9591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8660107c9fb875d04a27e881e4f7bc7') in 0.007988 seconds
+  Import took 0.011084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.075602 seconds.
+  path: Assets/States/Cyro-Room/A2 3.asset
+  artifactKey: Guid(9d4ce93f29084ae44862f51c659e9591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 3.asset using Guid(9d4ce93f29084ae44862f51c659e9591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903579fc75f1fffaccafce529efd02c4') in 0.002562 seconds
+  Import took 0.006230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/States/Cyro-Room/A2 4.asset
+  artifactKey: Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 4.asset using Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c6f1c63fc86178ce4bac22c03b566e') in 0.008884 seconds
+  Import took 0.012023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008017 seconds.
+  path: Assets/States/Cyro-Room/A2 4.asset
+  artifactKey: Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 4.asset using Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c6f1c63fc86178ce4bac22c03b566e') in 0.002515 seconds
+  Import took 0.006390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.407478 seconds.
+  path: Assets/States/Cyro-Room/A2 4.asset
+  artifactKey: Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 4.asset using Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cf82b3083fdb033d789ece56edb948') in 0.002187 seconds
+  Import took 0.005319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/States/Cyro-Room/A2 5.asset
+  artifactKey: Guid(52c7034038bd0ec4f8f1d17de53cda7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 5.asset using Guid(52c7034038bd0ec4f8f1d17de53cda7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83bd31aa5b19d45fced294e888999eb8') in 0.008666 seconds
+  Import took 0.012591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/States/Cyro-Room/A2 4.asset
+  artifactKey: Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 4.asset using Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cf82b3083fdb033d789ece56edb948') in 0.002483 seconds
+  Import took 0.005356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/States/Cyro-Room/A2 5.asset
+  artifactKey: Guid(52c7034038bd0ec4f8f1d17de53cda7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 5.asset using Guid(52c7034038bd0ec4f8f1d17de53cda7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83bd31aa5b19d45fced294e888999eb8') in 0.002628 seconds
+  Import took 0.006142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.686023 seconds.
+  path: Assets/States/Cyro-Room/A3.asset
+  artifactKey: Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A3.asset using Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2ffaf946d5d59fc9d5aac9711b6319') in 0.006788 seconds
+  Import took 0.010290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.544602 seconds.
+  path: Assets/States/Cyro-Room/A4.asset
+  artifactKey: Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A4.asset using Guid(191cc73ebab4d5941a13654573c39027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b8718768832aa23c57d26fcd354c98') in 0.006580 seconds
+  Import took 0.009694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.224704 seconds.
+  path: Assets/States/Cyro-Room/A5.asset
+  artifactKey: Guid(d6029e710155ca146b5d6d14cd48b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A5.asset using Guid(d6029e710155ca146b5d6d14cd48b44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd933041767cf4c620e00be1e70b8d8') in 0.006960 seconds
+  Import took 0.010058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.004437 seconds.
+  path: Assets/States/Cyro-Room/A3.asset
+  artifactKey: Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A3.asset using Guid(579882baa73bb104fa54443f72a6b740) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497d7070b9949c6a42b0180ff7bc5d61') in 0.002386 seconds
+  Import took 0.005891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.149719 seconds.
+  path: Assets/States/Cyro-Room/A6.asset
+  artifactKey: Guid(9d4ce93f29084ae44862f51c659e9591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A6.asset using Guid(9d4ce93f29084ae44862f51c659e9591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2a0332b3ec956bc5602a5a2596be93') in 0.007001 seconds
+  Import took 0.011635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.838346 seconds.
+  path: Assets/States/Cyro-Room/A7.asset
+  artifactKey: Guid(e190a297c0b302540ae330f65f58c05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A7.asset using Guid(e190a297c0b302540ae330f65f58c05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a21f895919bdad915a0306c7ce8426') in 0.008905 seconds
+  Import took 0.012056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.736555 seconds.
+  path: Assets/States/Cyro-Room/A8.asset
+  artifactKey: Guid(52c7034038bd0ec4f8f1d17de53cda7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8.asset using Guid(52c7034038bd0ec4f8f1d17de53cda7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646ab8f79f94148d857d9e9135359a7f') in 0.007759 seconds
+  Import took 0.010732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.481146 seconds.
+  path: Assets/States/Cyro-Room/A8 1.asset
+  artifactKey: Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 1.asset using Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3fe45d50503692a72f8807d56cfddc') in 0.006805 seconds
+  Import took 0.010227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.459271 seconds.
+  path: Assets/States/Cyro-Room/A8 1.asset
+  artifactKey: Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 1.asset using Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2940490859e4d950a86198f609435679') in 0.002301 seconds
+  Import took 0.005443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/States/Cyro-Room/A8 2.asset
+  artifactKey: Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 2.asset using Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '408b7a5140e75979570774cba1d00d5d') in 0.007536 seconds
+  Import took 0.010698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/States/Cyro-Room/A8 1.asset
+  artifactKey: Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 1.asset using Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2940490859e4d950a86198f609435679') in 0.002044 seconds
+  Import took 0.005009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.600698 seconds.
+  path: Assets/States/Cyro-Room/A8 2.asset
+  artifactKey: Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 2.asset using Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a16ba2626deacc6da5fe6f5cb36fb5b') in 0.002448 seconds
+  Import took 0.005593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/States/Cyro-Room/A8 3.asset
+  artifactKey: Guid(ab48805b7199af445973d4c6699f8d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 3.asset using Guid(ab48805b7199af445973d4c6699f8d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70be806d8f3b9567da9b8442024e8ab2') in 0.007021 seconds
+  Import took 0.010056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.534019 seconds.
+  path: Assets/States/Cyro-Room/A8 3.asset
+  artifactKey: Guid(ab48805b7199af445973d4c6699f8d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 3.asset using Guid(ab48805b7199af445973d4c6699f8d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a13298431b050c52468c906a4ba6b48') in 0.002493 seconds
+  Import took 0.007067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/States/Cyro-Room/A8 4.asset
+  artifactKey: Guid(f7f7a00773a910a46b184e064635f718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A8 4.asset using Guid(f7f7a00773a910a46b184e064635f718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64e246f69d58f3c8febbf404d0edca7') in 0.007104 seconds
+  Import took 0.010396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.031704 seconds.
+  path: Assets/States/Cyro-Room/A9.asset
+  artifactKey: Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A9.asset using Guid(bcb2786aa3cbc324899d9a85d56b819d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f210dd59c2c17f0d893e899a2c1094') in 0.007250 seconds
+  Import took 0.174470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.303388 seconds.
+  path: Assets/States/Cyro-Room/A10.asset
+  artifactKey: Guid(f7f7a00773a910a46b184e064635f718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A10.asset using Guid(f7f7a00773a910a46b184e064635f718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb845ea322eec2c624870917bbd0772') in 0.007845 seconds
+  Import took 0.011398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.806871 seconds.
+  path: Assets/States/Cyro-Room/A11.asset
+  artifactKey: Guid(ab48805b7199af445973d4c6699f8d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A11.asset using Guid(ab48805b7199af445973d4c6699f8d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893a4838d203803ab8a4e99a97ad51b3') in 0.008047 seconds
+  Import took 0.011018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.455475 seconds.
+  path: Assets/States/Cyro-Room/A12.asset
+  artifactKey: Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A12.asset using Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '620400a63ec8fe39ee0a23c9ccde53c7') in 0.007546 seconds
+  Import took 0.010626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.883764 seconds.
+  path: Assets/States/Cyro-Room/A2.asset
+  artifactKey: Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2.asset using Guid(f86dcd38486ee624b8e120621a704455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367023112c663b9e20df115e6f1ccd56') in 0.002538 seconds
+  Import took 0.005886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.819878 seconds.
+  path: Assets/States/Cyro-Room/B1.asset
+  artifactKey: Guid(b7f79df2c506678448630779135f1d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B1.asset using Guid(b7f79df2c506678448630779135f1d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55b33532b59b43b0344254f8be9342d') in 0.007675 seconds
+  Import took 0.010782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.056999 seconds.
+  path: Assets/States/Cyro-Room/B1 1.asset
+  artifactKey: Guid(15a631b55f64f08408d634ee9abeebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B1 1.asset using Guid(15a631b55f64f08408d634ee9abeebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc4be7c7e5e6450ee6de9c776df60eed') in 0.007404 seconds
+  Import took 0.010480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.052526 seconds.
+  path: Assets/States/Cyro-Room/B1 1.asset
+  artifactKey: Guid(15a631b55f64f08408d634ee9abeebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B1 1.asset using Guid(15a631b55f64f08408d634ee9abeebbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f975962af4beeef363959c6d79e559d4') in 0.002051 seconds
+  Import took 0.005043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/States/Cyro-Room/B1 2.asset
+  artifactKey: Guid(89129f3548b88fd4885c0cb0550fd269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B1 2.asset using Guid(89129f3548b88fd4885c0cb0550fd269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe005e11859c239542b0e59dda1b10e') in 0.007446 seconds
+  Import took 0.010677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007029 seconds.
+  path: Assets/States/Cyro-Room/B1 2.asset
+  artifactKey: Guid(89129f3548b88fd4885c0cb0550fd269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B1 2.asset using Guid(89129f3548b88fd4885c0cb0550fd269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe005e11859c239542b0e59dda1b10e') in 0.007147 seconds
+  Import took 0.010973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.143763 seconds.
+  path: Assets/States/Cyro-Room/B.asset
+  artifactKey: Guid(5a480b9cafc37584fa74839625530118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B.asset using Guid(5a480b9cafc37584fa74839625530118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c083dce5f3e37f403330d3d1b831ff18') in 0.007132 seconds
+  Import took 0.010225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000753 seconds.
+  path: Assets/States/Cyro-Room/B.asset
+  artifactKey: Guid(5a480b9cafc37584fa74839625530118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B.asset using Guid(5a480b9cafc37584fa74839625530118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c083dce5f3e37f403330d3d1b831ff18') in 0.002639 seconds
+  Import took 0.005743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.507295 seconds.
+  path: Assets/States/Cyro-Room/B 1.asset
+  artifactKey: Guid(2d40460dd2793064c8fa317afe1706cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 1.asset using Guid(2d40460dd2793064c8fa317afe1706cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71ba5b93608829d94d8eb8b7dd042152') in 0.007262 seconds
+  Import took 0.010286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.844472 seconds.
+  path: Assets/States/Cyro-Room/B 1.asset
+  artifactKey: Guid(2d40460dd2793064c8fa317afe1706cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 1.asset using Guid(2d40460dd2793064c8fa317afe1706cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db93b4208c68d3e9e073ab05beeace9') in 0.003123 seconds
+  Import took 0.006772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/States/Cyro-Room/B 2.asset
+  artifactKey: Guid(2cec6d5198e569e45b7da0c8d6cd2cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 2.asset using Guid(2cec6d5198e569e45b7da0c8d6cd2cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5c9cc329828cce38a11d5b97446a58') in 0.007448 seconds
+  Import took 0.010864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/States/Cyro-Room/B 1.asset
+  artifactKey: Guid(2d40460dd2793064c8fa317afe1706cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 1.asset using Guid(2d40460dd2793064c8fa317afe1706cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db93b4208c68d3e9e073ab05beeace9') in 0.002955 seconds
+  Import took 0.005728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.663992 seconds.
+  path: Assets/States/Cyro-Room/B 2.asset
+  artifactKey: Guid(2cec6d5198e569e45b7da0c8d6cd2cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 2.asset using Guid(2cec6d5198e569e45b7da0c8d6cd2cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c156ed989c5901559ce5b36d324b05') in 0.002302 seconds
+  Import took 0.005777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/States/Cyro-Room/B 3.asset
+  artifactKey: Guid(3ffcfb598728e7345822772f9030f78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 3.asset using Guid(3ffcfb598728e7345822772f9030f78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb4c0e69d3d228bc855563adabf2cb4') in 0.007053 seconds
+  Import took 0.010328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010670 seconds.
+  path: Assets/States/Cyro-Room/B 3.asset
+  artifactKey: Guid(3ffcfb598728e7345822772f9030f78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 3.asset using Guid(3ffcfb598728e7345822772f9030f78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb4c0e69d3d228bc855563adabf2cb4') in 0.002169 seconds
+  Import took 0.005336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.422866 seconds.
+  path: Assets/States/Cyro-Room/B 3.asset
+  artifactKey: Guid(3ffcfb598728e7345822772f9030f78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 3.asset using Guid(3ffcfb598728e7345822772f9030f78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a303d3f3c786878a9fb94d287405a720') in 0.002489 seconds
+  Import took 0.005581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/States/Cyro-Room/B 4.asset
+  artifactKey: Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 4.asset using Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3673b5deede8223a2c902445112d5287') in 0.007341 seconds
+  Import took 0.011384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015456 seconds.
+  path: Assets/States/Cyro-Room/B 4.asset
+  artifactKey: Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 4.asset using Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3673b5deede8223a2c902445112d5287') in 0.002596 seconds
+  Import took 0.005890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.995697 seconds.
+  path: Assets/States/Cyro-Room/B 4.asset
+  artifactKey: Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 4.asset using Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74aab6a1ae4750d4e7ff0d67c2db0800') in 0.002459 seconds
+  Import took 0.005545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/States/Cyro-Room/B 5.asset
+  artifactKey: Guid(c6213e9af2a62704ea3171aac7e71c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 5.asset using Guid(c6213e9af2a62704ea3171aac7e71c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a976ca69a6310f6c76847811b5807791') in 0.006478 seconds
+  Import took 0.009686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/States/Cyro-Room/B 4.asset
+  artifactKey: Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 4.asset using Guid(3d80b0bec89129248a593b7b27bb7f7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74aab6a1ae4750d4e7ff0d67c2db0800') in 0.006601 seconds
+  Import took 0.009587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.736237 seconds.
+  path: Assets/States/Cyro-Room/B 5.asset
+  artifactKey: Guid(c6213e9af2a62704ea3171aac7e71c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 5.asset using Guid(c6213e9af2a62704ea3171aac7e71c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd53ea9f2ca93ef5e48986ec31667dedf') in 0.002196 seconds
+  Import took 0.006729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/States/Cyro-Room/B 6.asset
+  artifactKey: Guid(c993cd077aa09b04a8f011254391feed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 6.asset using Guid(c993cd077aa09b04a8f011254391feed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5fdfc57b6f7644cd25bfe59d56eaed7') in 0.006666 seconds
+  Import took 0.009815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.573231 seconds.
+  path: Assets/States/Cyro-Room/B 6.asset
+  artifactKey: Guid(c993cd077aa09b04a8f011254391feed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 6.asset using Guid(c993cd077aa09b04a8f011254391feed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22876f1fcb3c740262c9c241d5ad7c6') in 0.002142 seconds
+  Import took 0.005124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/States/Cyro-Room/B 7.asset
+  artifactKey: Guid(d7b2d8c88c2b7634cbce7a0c6eef595b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 7.asset using Guid(d7b2d8c88c2b7634cbce7a0c6eef595b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f675e9085e4bfd90254cc494ee494fba') in 0.007204 seconds
+  Import took 0.010371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.847258 seconds.
+  path: Assets/States/Cyro-Room/B 7.asset
+  artifactKey: Guid(d7b2d8c88c2b7634cbce7a0c6eef595b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 7.asset using Guid(d7b2d8c88c2b7634cbce7a0c6eef595b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70ca8fb5809d90bd908ac80de70c3b8') in 0.002109 seconds
+  Import took 0.005136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/States/Cyro-Room/B 8.asset
+  artifactKey: Guid(068e7d8defd531c40a28b1b3884e2e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 8.asset using Guid(068e7d8defd531c40a28b1b3884e2e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1381d97f3b5f6adc0163d66013f2c025') in 0.006593 seconds
+  Import took 0.009731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008623 seconds.
+  path: Assets/States/Cyro-Room/B 8.asset
+  artifactKey: Guid(068e7d8defd531c40a28b1b3884e2e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 8.asset using Guid(068e7d8defd531c40a28b1b3884e2e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1381d97f3b5f6adc0163d66013f2c025') in 0.002114 seconds
+  Import took 0.005170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.616083 seconds.
+  path: Assets/States/Cyro-Room/B 8.asset
+  artifactKey: Guid(068e7d8defd531c40a28b1b3884e2e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 8.asset using Guid(068e7d8defd531c40a28b1b3884e2e6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ce85003a62244e84adc583242a4c88') in 0.002111 seconds
+  Import took 0.005196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/States/Cyro-Room/B 9.asset
+  artifactKey: Guid(dca848d757860104e96298dfd87f2fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 9.asset using Guid(dca848d757860104e96298dfd87f2fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28a43a6257c9a089bb51344a2089746') in 0.006351 seconds
+  Import took 0.009772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.231715 seconds.
+  path: Assets/States/Cyro-Room/A.asset
+  artifactKey: Guid(1206ec089e7c29a4091e4155fad0c691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A.asset using Guid(1206ec089e7c29a4091e4155fad0c691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78397a74e7a778c559459f9adc5ceef5') in 0.006464 seconds
+  Import took 0.009942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.453722 seconds.
+  path: Assets/States/Cyro-Room/A 1.asset
+  artifactKey: Guid(b0a6ec04925fd804f8ad4fc5bd774add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 1.asset using Guid(b0a6ec04925fd804f8ad4fc5bd774add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bb083becad4eb8a47b820a54e458393') in 0.006648 seconds
+  Import took 0.009843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/States/Cyro-Room/B 9.asset
+  artifactKey: Guid(dca848d757860104e96298dfd87f2fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/B 9.asset using Guid(dca848d757860104e96298dfd87f2fe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906e91ee0006df2c95db3e0a61ac9983') in 0.006410 seconds
+  Import took 0.009634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.600630 seconds.
+  path: Assets/States/Cyro-Room/A 1.asset
+  artifactKey: Guid(b0a6ec04925fd804f8ad4fc5bd774add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 1.asset using Guid(b0a6ec04925fd804f8ad4fc5bd774add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265bac4e6457cf824a8d10d3820eab78') in 0.002779 seconds
+  Import took 0.005878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/States/Cyro-Room/A 2.asset
+  artifactKey: Guid(1fdbc3f1865ff32498ea1e1d9f33ecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 2.asset using Guid(1fdbc3f1865ff32498ea1e1d9f33ecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d796418385e870fb2a904626397e3d0') in 0.006509 seconds
+  Import took 0.009704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/States/Cyro-Room/A 1.asset
+  artifactKey: Guid(b0a6ec04925fd804f8ad4fc5bd774add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 1.asset using Guid(b0a6ec04925fd804f8ad4fc5bd774add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265bac4e6457cf824a8d10d3820eab78') in 0.002321 seconds
+  Import took 0.005412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.614074 seconds.
+  path: Assets/States/Cyro-Room/A 2.asset
+  artifactKey: Guid(1fdbc3f1865ff32498ea1e1d9f33ecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 2.asset using Guid(1fdbc3f1865ff32498ea1e1d9f33ecd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfed8f37976d19b5aa6c55057d446685') in 0.002426 seconds
+  Import took 0.005518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/States/Cyro-Room/A 3.asset
+  artifactKey: Guid(008aa87ac2735c34fa54cc33d1d6da3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 3.asset using Guid(008aa87ac2735c34fa54cc33d1d6da3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f294f0857268691d5666b82ded3ed33b') in 0.006191 seconds
+  Import took 0.009304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.368308 seconds.
+  path: Assets/States/Cyro-Room/A 3.asset
+  artifactKey: Guid(008aa87ac2735c34fa54cc33d1d6da3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 3.asset using Guid(008aa87ac2735c34fa54cc33d1d6da3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e70202e032c386fdb572eebb78238b1') in 0.002510 seconds
+  Import took 0.005633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/States/Cyro-Room/A 4.asset
+  artifactKey: Guid(31bba749b22f5534aa6fffee8d161002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 4.asset using Guid(31bba749b22f5534aa6fffee8d161002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4889e9b8f23207e6095b6ca814df59a') in 0.006739 seconds
+  Import took 0.009780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.292521 seconds.
+  path: Assets/States/Cyro-Room/A 4.asset
+  artifactKey: Guid(31bba749b22f5534aa6fffee8d161002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 4.asset using Guid(31bba749b22f5534aa6fffee8d161002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb942b5e6b81ae4d2fe8c5ca8a20f8f5') in 0.002226 seconds
+  Import took 0.005848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/States/Cyro-Room/A 5.asset
+  artifactKey: Guid(4c2a5160bce197348bf063fd63070f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 5.asset using Guid(4c2a5160bce197348bf063fd63070f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b32ea97df2e6c6675fe8462f4bd5b5') in 0.007467 seconds
+  Import took 0.010802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.269168 seconds.
+  path: Assets/States/Cyro-Room/A 5.asset
+  artifactKey: Guid(4c2a5160bce197348bf063fd63070f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 5.asset using Guid(4c2a5160bce197348bf063fd63070f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479c55118e51b2ef374e445761390043') in 0.002184 seconds
+  Import took 0.005233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/States/Cyro-Room/A 6.asset
+  artifactKey: Guid(b9650f747d6b6d2468b0c1fa74d8e726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 6.asset using Guid(b9650f747d6b6d2468b0c1fa74d8e726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406479ea0efa4a6bbc0c4c60f1f40693') in 0.007740 seconds
+  Import took 0.011352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.222021 seconds.
+  path: Assets/States/Cyro-Room/A 6.asset
+  artifactKey: Guid(b9650f747d6b6d2468b0c1fa74d8e726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 6.asset using Guid(b9650f747d6b6d2468b0c1fa74d8e726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eabdd2d3360e436244200a0b410a9a85') in 0.002181 seconds
+  Import took 0.005318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/States/Cyro-Room/A 7.asset
+  artifactKey: Guid(96dbb1dc1b71c6e40835fbf1f03c787c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 7.asset using Guid(96dbb1dc1b71c6e40835fbf1f03c787c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8930a3d9c04cb69f96b0c6aa7f3f708f') in 0.006487 seconds
+  Import took 0.009489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008248 seconds.
+  path: Assets/States/Cyro-Room/A 7.asset
+  artifactKey: Guid(96dbb1dc1b71c6e40835fbf1f03c787c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 7.asset using Guid(96dbb1dc1b71c6e40835fbf1f03c787c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8930a3d9c04cb69f96b0c6aa7f3f708f') in 0.002352 seconds
+  Import took 0.007275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.214646 seconds.
+  path: Assets/States/Cyro-Room/A 7.asset
+  artifactKey: Guid(96dbb1dc1b71c6e40835fbf1f03c787c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 7.asset using Guid(96dbb1dc1b71c6e40835fbf1f03c787c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '933ed255c1803266b2db89a4de478db9') in 0.002159 seconds
+  Import took 0.005416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/States/Cyro-Room/A 8.asset
+  artifactKey: Guid(8b5fb544c99fc8a4a8713976876eaeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 8.asset using Guid(8b5fb544c99fc8a4a8713976876eaeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc04f18ba96c91f62610d0412bf41e8') in 0.006334 seconds
+  Import took 0.009269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008915 seconds.
+  path: Assets/States/Cyro-Room/A 8.asset
+  artifactKey: Guid(8b5fb544c99fc8a4a8713976876eaeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 8.asset using Guid(8b5fb544c99fc8a4a8713976876eaeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc04f18ba96c91f62610d0412bf41e8') in 0.002198 seconds
+  Import took 0.005559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.210822 seconds.
+  path: Assets/States/Cyro-Room/A 8.asset
+  artifactKey: Guid(8b5fb544c99fc8a4a8713976876eaeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 8.asset using Guid(8b5fb544c99fc8a4a8713976876eaeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6eed23c7d044d2f2f6716533606dff') in 0.002183 seconds
+  Import took 0.005244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/States/Cyro-Room/A 9.asset
+  artifactKey: Guid(da32d88394e68694f81ca5211fae78d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 9.asset using Guid(da32d88394e68694f81ca5211fae78d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070ad11ad4e326bcf7da617bcf1d9747') in 0.006519 seconds
+  Import took 0.010350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010689 seconds.
+  path: Assets/States/Cyro-Room/A 9.asset
+  artifactKey: Guid(da32d88394e68694f81ca5211fae78d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 9.asset using Guid(da32d88394e68694f81ca5211fae78d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070ad11ad4e326bcf7da617bcf1d9747') in 0.003474 seconds
+  Import took 0.007359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.279519 seconds.
+  path: Assets/States/Cyro-Room/A 9.asset
+  artifactKey: Guid(da32d88394e68694f81ca5211fae78d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 9.asset using Guid(da32d88394e68694f81ca5211fae78d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f704a36487820febdebc4f7dea6bbdd3') in 0.002469 seconds
+  Import took 0.005702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/States/Cyro-Room/A 10.asset
+  artifactKey: Guid(4a8899dad6315ac4ea3ddbeefc72a718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 10.asset using Guid(4a8899dad6315ac4ea3ddbeefc72a718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a89d61d35e1e7e94d1baa618e26d1c8') in 0.006938 seconds
+  Import took 0.009636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008488 seconds.
+  path: Assets/States/Cyro-Room/A 10.asset
+  artifactKey: Guid(4a8899dad6315ac4ea3ddbeefc72a718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 10.asset using Guid(4a8899dad6315ac4ea3ddbeefc72a718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a89d61d35e1e7e94d1baa618e26d1c8') in 0.002153 seconds
+  Import took 0.005111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.456863 seconds.
+  path: Assets/States/Cyro-Room/A 1 - Wake Up.asset
+  artifactKey: Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A 1 - Wake Up.asset using Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10086cbb0a7974103c1beb9380b351ae') in 0.006582 seconds
+  Import took 0.009651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 234.638972 seconds.
+  path: Assets/States/Cyro-Room/New State.asset
+  artifactKey: Guid(8b2045da6f14c4246b39badafaac1e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/New State.asset using Guid(8b2045da6f14c4246b39badafaac1e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7649c22696866c9f7a5cc22c8d4ce08a') in 0.006851 seconds
+  Import took 0.011659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.836326 seconds.
+  path: Assets/States/Cyro-Room/Q1 - Wake Up.asset
+  artifactKey: Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q1 - Wake Up.asset using Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd140746585952ee103d44452190cde') in 0.007351 seconds
+  Import took 0.010413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.020986 seconds.
+  path: Assets/States/Cyro-Room/A1 -.asset
+  artifactKey: Guid(31340b01544f5644ba68ed991dc20055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A1 -.asset using Guid(31340b01544f5644ba68ed991dc20055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93acfd08ae2751f5595974cad9130936') in 0.006662 seconds
+  Import took 0.010072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.046196 seconds.
+  path: Assets/States/Cyro-Room/A2 -.asset
+  artifactKey: Guid(8b2045da6f14c4246b39badafaac1e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2 -.asset using Guid(8b2045da6f14c4246b39badafaac1e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fdaa75251b47651c790d0ab3b88cb48') in 0.006887 seconds
+  Import took 0.010089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.740700 seconds.
+  path: Assets/States/Cyro-Room/A1-1.asset
+  artifactKey: Guid(31340b01544f5644ba68ed991dc20055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A1-1.asset using Guid(31340b01544f5644ba68ed991dc20055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0399f8701ff5422e59ac34fd297f46d') in 0.006787 seconds
+  Import took 0.009804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.015169 seconds.
+  path: Assets/States/Cyro-Room/A1-2.asset
+  artifactKey: Guid(8b2045da6f14c4246b39badafaac1e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A1-2.asset using Guid(8b2045da6f14c4246b39badafaac1e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a48b6577b3214b4cbd09249ea65494') in 0.008857 seconds
+  Import took 0.013200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 386.658750 seconds.
+  path: Assets/States/Cyro-Room/New State.asset
+  artifactKey: Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/New State.asset using Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65309570e23001e79b055084fab5eafa') in 0.002223 seconds
+  Import took 0.005792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.679008 seconds.
+  path: Assets/States/Cyro-Room/Q2.asset
+  artifactKey: Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q2.asset using Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '085a36f26170afe3a5f0411c4eb52084') in 0.006472 seconds
+  Import took 0.010211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.336930 seconds.
+  path: Assets/States/Cyro-Room/Q1.asset
+  artifactKey: Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q1.asset using Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a383b8fbcea0bcf6207005e54defa30') in 0.007212 seconds
+  Import took 0.010709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.512867 seconds.
+  path: Assets/States/Cyro-Room/A2-1.asset
+  artifactKey: Guid(863cc2e3de952ae40a3bfaa507a40876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2-1.asset using Guid(863cc2e3de952ae40a3bfaa507a40876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a450dbe66d02222afca398f679056ba') in 0.006934 seconds
+  Import took 0.010017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.516792 seconds.
+  path: Assets/States/Cyro-Room/A2-2.asset
+  artifactKey: Guid(ef79d414583f17d4d9723342a2231b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/A2-2.asset using Guid(ef79d414583f17d4d9723342a2231b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cddb46c98d9063b3aab88b18fd04b7c') in 0.006533 seconds
+  Import took 0.009676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.455365 seconds.
+  path: Assets/States/Cyro-Room/Q3.asset
+  artifactKey: Guid(91516904932d9c84ca6ab21d224cd95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q3.asset using Guid(91516904932d9c84ca6ab21d224cd95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041080b69538b2b0533b02651d85661a') in 0.006800 seconds
+  Import took 0.010103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.568719 seconds.
+  path: Assets/States/Cyro-Room/Q4.asset
+  artifactKey: Guid(de198d1df0d8d124684012b1a227e0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q4.asset using Guid(de198d1df0d8d124684012b1a227e0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b581ade05a732de1fe86ddb6e09a4c62') in 0.007502 seconds
+  Import took 0.010743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.783945 seconds.
+  path: Assets/States/Cyro-Room/Q5.asset
+  artifactKey: Guid(dc4f761f7a0eafd44838701300566eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q5.asset using Guid(dc4f761f7a0eafd44838701300566eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfad51eea0d8f7eae0f16e7e88aec79d') in 0.006791 seconds
+  Import took 0.009857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.275029 seconds.
+  path: Assets/States/Cyro-Room/Q6.asset
+  artifactKey: Guid(04c893900166f8946a9abfc49f712dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q6.asset using Guid(04c893900166f8946a9abfc49f712dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65c94ef039c2de2cbe169033698bf74c') in 0.006654 seconds
+  Import took 0.009856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.321763 seconds.
+  path: Assets/States/Cyro-Room/Q7.asset
+  artifactKey: Guid(ef836f035718bca4e83b1d80654c4aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q7.asset using Guid(ef836f035718bca4e83b1d80654c4aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460a54d3ac4a3389f5da2c2c50649e2c') in 0.006886 seconds
+  Import took 0.009962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.343689 seconds.
+  path: Assets/States/Cyro-Room/Q8.asset
+  artifactKey: Guid(f5fa7bad431c6ec4c8e660448a7908b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q8.asset using Guid(f5fa7bad431c6ec4c8e660448a7908b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eee71471dc667134c51918120e1168f') in 0.006629 seconds
+  Import took 0.009710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 494.689995 seconds.
+  path: Assets/States/Game Over/F1 - Game Over.asset
+  artifactKey: Guid(37e4559c32d569b439da6fe8c9074a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F1 - Game Over.asset using Guid(37e4559c32d569b439da6fe8c9074a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a261d2ed1df9986be96cddbd670f003') in 0.002696 seconds
+  Import took 0.005984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.629287 seconds.
+  path: Assets/States/Game Over/F2 - Game Over.asset
+  artifactKey: Guid(cda67633df3ff2d488090dd5917731a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F2 - Game Over.asset using Guid(cda67633df3ff2d488090dd5917731a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cdd6b660a7588f13eadf8414ce0fc50') in 0.006811 seconds
+  Import took 0.009957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 304.143255 seconds.
+  path: Assets/States/Cyro-Room/W1.asset
+  artifactKey: Guid(0f295349bc6ec4e4988bfb9825368d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/W1.asset using Guid(0f295349bc6ec4e4988bfb9825368d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbab1fa6754e30dbb37d7ba6a9f20ac') in 0.006344 seconds
+  Import took 0.010249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/States/Cyro-Room/W1.asset
+  artifactKey: Guid(0f295349bc6ec4e4988bfb9825368d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/W1.asset using Guid(0f295349bc6ec4e4988bfb9825368d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fbab1fa6754e30dbb37d7ba6a9f20ac') in 0.166740 seconds
+  Import took 0.169524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 570.548417 seconds.
+  path: Assets/States/Cyro-Room/Q9.asset
+  artifactKey: Guid(55bf0f67dce508e48b43f2f27e373d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q9.asset using Guid(55bf0f67dce508e48b43f2f27e373d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f33d5af50e13761e8261235ab340cb') in 0.006247 seconds
+  Import took 0.009896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 781.743372 seconds.
+  path: Assets/States/Cyro-Room/W2.asset
+  artifactKey: Guid(01cd3f9ba8114b0438d4e3786f3b5ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/W2.asset using Guid(01cd3f9ba8114b0438d4e3786f3b5ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959167dd7f4ceb67bab7522c8913e02c') in 0.007612 seconds
+  Import took 0.010911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 239.410143 seconds.
+  path: Assets/States/Game Over/F3 - Game Over.asset
+  artifactKey: Guid(9d828cca12a1b834ebffc9eaa16d8892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F3 - Game Over.asset using Guid(9d828cca12a1b834ebffc9eaa16d8892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a67196b0f903834ee38aa170bfbd2f2') in 0.007687 seconds
+  Import took 0.011370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 910.252608 seconds.
+  path: Assets/States/Cyro-Room/Q10.asset
+  artifactKey: Guid(6283df9c82f3fa641a302a2ebe3a5973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q10.asset using Guid(6283df9c82f3fa641a302a2ebe3a5973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e1b94f2efa458198406a677b337ebf') in 0.006535 seconds
+  Import took 0.009864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.249920 seconds.
+  path: Assets/States/Game Over/F4 - Game Over.asset
+  artifactKey: Guid(3811cd8ba64c8bd47977914d88814a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F4 - Game Over.asset using Guid(3811cd8ba64c8bd47977914d88814a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c22ce53696ac65b4046ae9b7e27f72') in 0.006831 seconds
+  Import took 0.009906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.613056 seconds.
+  path: Assets/States/Cyro-Room/Q1.asset
+  artifactKey: Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q1.asset using Guid(a2d458f2d25faef4c9403e512aac719c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d4ca4b603b9c6418736edd3433ac7c') in 0.009497 seconds
+  Import took 0.013499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/States/Cyro-Room/W1.asset
+  artifactKey: Guid(0f295349bc6ec4e4988bfb9825368d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/W1.asset using Guid(0f295349bc6ec4e4988bfb9825368d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4cbf4c10157db65b4883962955934f') in 0.005622 seconds
+  Import took 0.009980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/States/Cyro-Room/Q3.asset
+  artifactKey: Guid(91516904932d9c84ca6ab21d224cd95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q3.asset using Guid(91516904932d9c84ca6ab21d224cd95e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf6914ecb2396d695cb36044bbaed7d') in 0.011960 seconds
+  Import took 0.015743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/States/Cyro-Room/Q6.asset
+  artifactKey: Guid(04c893900166f8946a9abfc49f712dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q6.asset using Guid(04c893900166f8946a9abfc49f712dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393af4f9fc9c2f044f11db92003dcf8d') in 0.004588 seconds
+  Import took 0.007810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/States/Cyro-Room/Q7.asset
+  artifactKey: Guid(ef836f035718bca4e83b1d80654c4aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q7.asset using Guid(ef836f035718bca4e83b1d80654c4aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6933776ebf25cfdbb14b99cc7c866eec') in 0.007343 seconds
+  Import took 0.011493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/States/Cyro-Room/Q9.asset
+  artifactKey: Guid(55bf0f67dce508e48b43f2f27e373d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q9.asset using Guid(55bf0f67dce508e48b43f2f27e373d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0a0b95faed7b10e508b4598febe536') in 0.012289 seconds
+  Import took 0.015333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/States/Cyro-Room/Q4.asset
+  artifactKey: Guid(de198d1df0d8d124684012b1a227e0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q4.asset using Guid(de198d1df0d8d124684012b1a227e0d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f1dcbd28b4f782246bff70d356da30') in 0.004358 seconds
+  Import took 0.007226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/States/Cyro-Room/Q2.asset
+  artifactKey: Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q2.asset using Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7d51a58b51722e6022addf829313b26') in 0.007306 seconds
+  Import took 0.011512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/States/Cyro-Room/Q8.asset
+  artifactKey: Guid(f5fa7bad431c6ec4c8e660448a7908b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q8.asset using Guid(f5fa7bad431c6ec4c8e660448a7908b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa8aaa315b2c99c05ad6036909c5c53b') in 0.006345 seconds
+  Import took 0.010189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/States/Cyro-Room/W2.asset
+  artifactKey: Guid(01cd3f9ba8114b0438d4e3786f3b5ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/W2.asset using Guid(01cd3f9ba8114b0438d4e3786f3b5ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fbfe5979af99705bdc4355e039e5369') in 0.005227 seconds
+  Import took 0.008601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/States/Cyro-Room/Q5.asset
+  artifactKey: Guid(dc4f761f7a0eafd44838701300566eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q5.asset using Guid(dc4f761f7a0eafd44838701300566eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6575f31e0d4320236dbb3ca24c0e2daa') in 0.005219 seconds
+  Import took 0.010480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.886897 seconds.
+  path: Assets/States/Cyro-Room/Q2.asset
+  artifactKey: Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Cyro-Room/Q2.asset using Guid(47d197b0c6030774f9ce470e15dff259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4350133d2f35846bd69ccc7d82125203') in 0.005849 seconds
+  Import took 0.009026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.885966 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8c1d8ba1a48119e7b37f098f4c515e') in 0.159794 seconds
+  Import took 0.162823 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.019 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2523.
+Total: 2.165700 ms (FindLiveObjects: 0.190500 ms CreateObjectMapping: 0.047200 ms MarkObjects: 1.821700 ms  DeleteObjects: 0.105300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.993630 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(5072866f9a437f945acca845716cb9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(5072866f9a437f945acca845716cb9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be98a20c2986ade4e6414131e2e8f3e7') in 0.009749 seconds
+  Import took 0.013127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.450002 seconds.
+  path: Assets/States/Game Over/F2 - Game Over.asset
+  artifactKey: Guid(cda67633df3ff2d488090dd5917731a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F2 - Game Over.asset using Guid(cda67633df3ff2d488090dd5917731a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f002d849bae771eba88f2c98662a31') in 0.008979 seconds
+  Import took 0.011949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/States/Game Over/F3 - Game Over.asset
+  artifactKey: Guid(9d828cca12a1b834ebffc9eaa16d8892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F3 - Game Over.asset using Guid(9d828cca12a1b834ebffc9eaa16d8892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af18d4633ed2962fb6f8b467baada582') in 0.002306 seconds
+  Import took 0.004927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/States/Game Over/F4 - Game Over.asset
+  artifactKey: Guid(3811cd8ba64c8bd47977914d88814a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F4 - Game Over.asset using Guid(3811cd8ba64c8bd47977914d88814a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '194c03ec2f770c2d204d6dbd211ab20b') in 0.006344 seconds
+  Import took 0.009334 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2527.
+Total: 2.191800 ms (FindLiveObjects: 0.194000 ms CreateObjectMapping: 0.047600 ms MarkObjects: 1.841200 ms  DeleteObjects: 0.107900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.152247 seconds.
+  path: Assets/States/Game Over/F3 - Game Over.asset
+  artifactKey: Guid(9d828cca12a1b834ebffc9eaa16d8892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F3 - Game Over.asset using Guid(9d828cca12a1b834ebffc9eaa16d8892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fc1871879f4aaa58e26d5bbff80af4') in 0.013767 seconds
+  Import took 0.016736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/States/Game Over/F2 - Game Over.asset
+  artifactKey: Guid(cda67633df3ff2d488090dd5917731a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F2 - Game Over.asset using Guid(cda67633df3ff2d488090dd5917731a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef64a988323de89b2e5fa4a845738aee') in 0.004355 seconds
+  Import took 0.007670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/States/Game Over/F4 - Game Over.asset
+  artifactKey: Guid(3811cd8ba64c8bd47977914d88814a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/States/Game Over/F4 - Game Over.asset using Guid(3811cd8ba64c8bd47977914d88814a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b578fa26f72e981a44ace7d90b87050') in 0.004360 seconds
+  Import took 0.007241 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

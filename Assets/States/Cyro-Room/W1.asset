@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30fc377a07ba6246a82b32049fa1d82, type: 3}
+  m_Name: W1
+  m_EditorClassIdentifier: 
+  storyText: "You seal off the garbage disposal from the rest of the ship.  The computer
+    prompts you to detach the affected area from the ship before any other sections
+    are damaged.\n\nYou confirm the operation and the sector is jettisoned away from
+    the ship.  The alarm turns off and the ship returns to it's usual quiet hum. 
+    \n\nYou crawl back into your cryo-chamber and close the lid.  The chamber pressurizes
+    and you fade off back to sleep.\n\nCongratulations!  You saved the day!  Do you
+    want to play again?\n\n1.  Yes, I want to try again.\n2.  No, I'm done with space."
+  nextStates:
+  - {fileID: 11400000, guid: a2d458f2d25faef4c9403e512aac719c, type: 2}
+  - {fileID: 11400000, guid: 6039bb8cd188ac64699830a7c78ca1c9, type: 2}

@@ -1,0 +1,5 @@
+You wake up to the sound of an alarm.  You are lying in a cryo-sleep chamber.  It was supposed to keep you under until the ship reached it's destination.  Something is wrong.
+What do you do?
+
+1.  Hit the emergency release button on the inside of the chamber.
+2.  Go back to sleep.  Everything will smooth over on it's own.
